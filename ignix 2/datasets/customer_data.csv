@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,Income,Purchase_Amount,Product_Category,Satisfaction_Score
+1001,28,Female,45000,120,Electronics,4.2
+1002,35,Male,62000,85,Clothing,3.8
+1003,42,Female,78000,200,Home,4.5
+1004,29,Male,38000,65,Sports,3.9
+1005,51,Female,95000,350,Electronics,4.7
+1006,33,Male,55000,90,Clothing,4.1
+1007,26,Female,41000,75,Beauty,4.0
+1008,48,Male,82000,180,Home,4.3
+1009,37,Female,67000,110,Sports,3.7
+1010,44,Male,73000,145,Electronics,4.4
